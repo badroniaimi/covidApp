@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425353693154",
+    "firebase_url": "https://secondtry-413fb.firebaseio.com",
+    "project_id": "secondtry-413fb",
+    "storage_bucket": "secondtry-413fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425353693154:android:d11b226a8e13a598415bbb",
+        "android_client_info": {
+          "package_name": "appli.fstt.anitcorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425353693154-31vejog0krk43tch2b75vu54g4lel47f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appli.fstt.anitcorona",
+            "certificate_hash": "a3a2e5eef8bfa2cebbae216d2f014f5adc4a873a"
+          }
+        },
+        {
+          "client_id": "425353693154-fll9lrtsj20as9rgh0ofovkbgufodmm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5m5Ct4nUBYMTNyhA5P9bjIjaU2_NhbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425353693154-fll9lrtsj20as9rgh0ofovkbgufodmm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
